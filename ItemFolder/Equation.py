@@ -5,9 +5,11 @@ class Equation:
         self.equationRepresentation = None
         self.listOfVariables = listOfVariables
 
+    '''set the equation representation'''
     def setEquationReplesentation(self, representation):
         self.equationRepresentation = representation
 
+    '''Printing the equation in order to help visualize the equation'''
     def print(self):
 
         strListOfVariables = ', '.join(self.listOfVariables)
