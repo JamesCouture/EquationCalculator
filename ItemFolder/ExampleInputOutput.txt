@@ -1,0 +1,14 @@
+y=5
+i=3
+z=3
+
+x=9
+
+Given:
+y=5
+i=3
+z=3
+
+Calculated:
+x = 9 -> x = yiz
+x = 1 -> x = zi
